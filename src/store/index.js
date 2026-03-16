@@ -1,4 +1,5 @@
-import { createStore } from "redux";
+// import { createStore } from "redux";
+import { configureStore } from "@reduxjs/toolkit"
 
 const INITIAL_VALUE = {
     counter: 0,
