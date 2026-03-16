@@ -3,9 +3,9 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import Header from './components/Header'
 import DisplayCounter from './components/DisplayCounter'
 import Container from './components/Container'
+import PrivacyMessage from './components/PrivacyMessage'
 import Controls from './components/Controls'
 import { useSelector } from 'react-redux'
-import PrivacyMessage from './components/PrivacyMessage'
 
 function App() {
 
